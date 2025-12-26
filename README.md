@@ -1,100 +1,144 @@
----
+# 👋 Hi there, I'm **Babu**
 
-👋 Hi there, I'm Babu!
+🎓 **B.Tech in Information Technology (2024 Graduate)**
+📍 **Thalaivasal, Salem District, Tamil Nadu**
+💼 **Former Junior Data Analyst Intern – Besant Technologies**
+📊 **Aspiring Data Analyst | Data Analytics Enthusiast**
 
-🎓 B.Tech in Information Technology
-📍 From Thalaivasal, Salem District
-💼 Former Junior Data Analyst Intern at Besant Technologies
-📚 Currently learning Data Analytics and exploring the world of Data Science
-
-
----
-
-🔍 About Me
-
-I am a passionate data enthusiast with expertise in Python, SQL, Power BI, and Excel. My goal is to extract meaningful insights from raw data and create impactful visualizations. I strive to combine technical proficiency with analytical thinking to solve real-world problems.
-
+I enjoy transforming **raw data into meaningful insights** and presenting them through dashboards, reports, and data stories.
 
 ---
 
-🛠 Skills and Tools
+## 🔍 About Me
 
-Programming: Python (Data Analysis, Automation, Visualization)
+I am a **passionate and detail-oriented data enthusiast** with hands-on experience in **Python, SQL, Power BI, and Excel**.
+My goal is to analyze data, uncover patterns, and deliver insights that support **real-world business decisions**.
 
-Data Tools: SQL, Power BI, Excel (Pivot Tables, Charts, Dashboards)
-
-Projects: Data Cleaning, Trend Analysis, Dashboard Development
-
-Certifications:
-
-Python, SQL, Power BI, and Excel from Besant Technologies
-
-Simplilearn certifications
-
-
-
+Currently, I am improving my analytics skills and exploring **Data Science fundamentals**.
 
 ---
 
-📊 My Notable Projects
+## 🛠 Skills & Tools
 
-Here are some of the projects I've worked on:
+### 💻 Programming & Analysis
 
-1. Sales Trend Analysis Dashboard (Excel)
+* Python (Pandas, NumPy, Matplotlib, Seaborn)
+* SQL (PostgreSQL, MySQL, SQL Server)
 
-Created an interactive dashboard for analyzing sales trends, seasonal variations, and regional performance.
+### 📊 Visualization & Reporting
 
+* Power BI (Dashboards, KPIs)
+* Excel (Pivot Tables, Charts, Dashboards)
 
+### 📁 Core Skills
 
-2. Bus Ticket Booking System (Python)
-
-Designed a Python-based console application for booking and managing bus tickets with seat availability tracking.
-
-
-
-3. Employee Management System (MySQL)
-
-Built a database system for employee records with features like CRUD operations and performance tracking.
-
-
-
-4. Sales and Inventory Analysis for Blinkit (Power BI)
-
-Developed a Power BI dashboard to analyze inventory turnover, sales trends, and operational efficiency.
-
-
-
-
+* Data Cleaning & Transformation
+* Exploratory Data Analysis (EDA)
+* Trend & Performance Analysis
+* Business Insights & Reporting
 
 ---
 
-🌱 What I'm Learning Now
+## ⭐ Featured Projects
 
-I'm deepening my understanding of:
+### 🛍️ **Customer Shopping Behavior Analysis**
 
-Advanced data modeling techniques
+**Tools:** Python | SQL (PostgreSQL) | Power BI
 
-Machine Learning basics
+**Overview:**
+An end-to-end analytics project analyzing **3,900 customer purchase records** to understand customer behavior, spending patterns, product preferences, and subscription impact .
 
-Big data tools like Apache Spark
+**Key Contributions:**
 
+* Loaded and cleaned transactional data using **Python**
+* Performed **EDA** to identify trends and anomalies
+* Handled missing values in review ratings using median imputation
+* Created new features such as **age groups** and **purchase frequency**
+* Integrated cleaned data into **PostgreSQL** for SQL analysis
+* Answered business questions using advanced SQL queries
+* Built an **interactive Power BI dashboard** to visualize insights 
 
+**Insights Generated:**
+
+* Revenue comparison by gender
+* High-spending customers using discounts
+* Top-rated and most-purchased products
+* Subscribers vs. non-subscribers revenue analysis
+* Customer segmentation: **New, Returning, Loyal**
+* Revenue contribution by age group and shipping type 
+
+**Business Impact:**
+
+* Recommended subscription promotions
+* Suggested loyalty programs for repeat buyers
+* Optimized discount strategies
+* Targeted marketing for high-value customer groups 
 
 ---
 
-🌐 Connect with Me
+### 📊 **End-to-End Data Analytics Project**
 
-LinkedIn:www.linkedin.com/in/babu783
+**Tools:** Python | SQL | Power BI | Gamma
 
-Email: worldofbabuselvaraj@gmail.com
-
-
-
----
-
-🌟 Fun Fact: I believe every dataset tells a story—let's uncover it together!
-
+* Loaded datasets and performed **EDA & data cleaning**
+* Executed analytical SQL queries across databases
+* Built an interactive **Power BI dashboard**
+* Created a business **report**
+* Designed a professional **presentation using Gamma**
 
 ---
 
-Feel free to tweak the links and any section as per your preference.
+## 📂 Other Notable Projects
+
+### 📈 Sales Trend Analysis Dashboard *(Excel)*
+
+* Interactive dashboard to analyze sales trends, seasonality, and regional performance
+
+### 🚌 Bus Ticket Booking System *(Python)*
+
+* Console-based application with seat availability and booking management
+
+### 🧑‍💼 Employee Management System *(MySQL)*
+
+* Database system with CRUD operations and employee performance tracking
+
+### 🛒 Sales & Inventory Analysis – Blinkit *(Power BI)*
+
+* Dashboard analyzing sales trends and inventory turnover
+* Improved operational decision-making insights
+
+---
+
+## 🌱 What I'm Learning Now
+
+* Advanced Data Modeling
+* Machine Learning Basics
+* Big Data Tools (Apache Spark – beginner level)
+
+---
+
+## 🎓 Certifications
+
+* Python, SQL, Power BI, Excel – **Besant Technologies**
+* Data Analytics Certifications – **Simplilearn**
+
+---
+
+## 🌐 Connect with Me
+
+🔗 **LinkedIn:** [https://www.linkedin.com/in/babu783](https://www.linkedin.com/in/babu783)
+📧 **Email:** [worldofbabuselvaraj@gmail.com](mailto:worldofbabuselvaraj@gmail.com)
+
+---
+
+## 🌟 Fun Fact
+
+> Every dataset tells a story — I enjoy finding it and presenting it clearly 📊
+
+---
+
+### ⭐ Feel free to explore my repositories and connect with me!
+
+---
+
+
